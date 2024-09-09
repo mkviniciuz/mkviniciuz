@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 夢力風龍風夢心風心火火愛愛力風風夢愛月神花神火⣧⣾⣽神天山神火火愛龍神火風神神月愛力風力水心花風心神山夢
 ```
 
-<h1>Na ausência de propósito, a alma vaga vazio sem destino.</h1>
+<h1>Na ausência de propósito, a alma vaga no vazio e sem destino.</h1>
