@@ -65,9 +65,9 @@ Me chamo Vinicius, sou estudante de **Análise e Desenvolvimento de Sistemas** e
 - 🚀 **Objetivo:** Me tornar um profissional cada vez mais capacitado e contribuir com projetos no qual eu possa fazer a diferença.
 
 ## Projetos Destacados
-- [ASCII Souls]([link](https://github.com/mkviniciuz/Python-Projects)) - Um pequeno jogo baseado em texto, envolvendo mecanicas no estilo darksouls (PYTHON)🐍.
-- [Jogo da Velha]([link](https://github.com/mkviniciuz/appXOXO)) - Um jogo da velha ASCII (PYTHON)🐍.
-- [Cartas Contra a Humanidade]([link](https://github.com/mkviniciuz/cardsagainsthumanity)) - Pequeno projeto inacabado baseado no Cardgame "Cards Against Humanity" (HTML e CSS)📝.
+- ASCII Souls([link](https://github.com/mkviniciuz/Python-Projects)) - Um pequeno jogo baseado em texto, envolvendo mecanicas no estilo darksouls (PYTHON)🐍.
+- Jogo da Velha([link](https://github.com/mkviniciuz/appXOXO)) - Um jogo da velha ASCII (PYTHON)🐍.
+- Cartas Contra a Humanidade([link](https://github.com/mkviniciuz/cardsagainsthumanity)) - Pequeno projeto inacabado baseado no Cardgame "Cards Against Humanity" (HTML e CSS)📝.
 
 ## Contato
 - 📧 **E-mail:** [seuemail@exemplo.com]
