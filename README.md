@@ -51,3 +51,34 @@ Here are some ideas to get you started:
 ```
 
 <h1>Na ausência de propósito, a alma vaga no vazio e sem destino.</h1>
+
+
+
+# Olá, seja bem-vindo(a) ao meu perfil! 👋
+
+## Sobre mim
+Meu nome é [Seu Nome], sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante busca por aprimorar meus conhecimentos na área de tecnologia. Aqui no GitHub, compartilho alguns dos meus projetos pessoais e trabalhos desenvolvidos durante minha jornada de aprendizado.
+
+## Habilidades e Interesses
+- 💻 **Linguagens de Programação:** [Liste as linguagens que você conhece, ex: Python, Java, JavaScript, etc.]
+- 🛠️ **Ferramentas e Tecnologias:** [Ex: Git, React, Node.js, SQL, etc.]
+- 🌱 **Aprendendo:** [Mencione o que está estudando no momento, ex: Desenvolvimento Web, Machine Learning, etc.]
+- 🚀 **Objetivo:** Me tornar um(a) profissional cada vez mais capacitado(a) e contribuir com projetos inovadores.
+
+## Projetos Destacados
+- [Nome do Projeto 1](link) - Breve descrição do projeto.
+- [Nome do Projeto 2](link) - Breve descrição do projeto.
+- [Nome do Projeto 3](link) - Breve descrição do projeto.
+
+## Contato
+- 📧 **E-mail:** [seuemail@exemplo.com]
+- 🔗 **LinkedIn:** [linkedin.com/in/seu-linkedin](link)
+- 🌐 **Portfólio:** [seuportifolio.com](link) *(se aplicável)*
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser trocar ideias ou colaborar em algum projeto!
