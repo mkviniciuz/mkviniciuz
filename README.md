@@ -57,18 +57,17 @@ Here are some ideas to get you started:
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
 ## Sobre mim
-Meu nome é [Seu Nome], sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante busca por aprimorar meus conhecimentos na área de tecnologia. Aqui no GitHub, compartilho alguns dos meus projetos pessoais e trabalhos desenvolvidos durante minha jornada de aprendizado.
+Me chamo Vinicius, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante busca por aprimorar meus conhecimentos na área de tecnologia. Aqui no GitHub, compartilharei alguns dos meus projetos pessoais e trabalhos desenvolvidos durante minha jornada de aprendizado.
 
 ## Habilidades e Interesses
-- 💻 **Linguagens de Programação:** [Liste as linguagens que você conhece, ex: Python, Java, JavaScript, etc.]
-- 🛠️ **Ferramentas e Tecnologias:** [Ex: Git, React, Node.js, SQL, etc.]
-- 🌱 **Aprendendo:** [Mencione o que está estudando no momento, ex: Desenvolvimento Web, Machine Learning, etc.]
-- 🚀 **Objetivo:** Me tornar um(a) profissional cada vez mais capacitado(a) e contribuir com projetos inovadores.
+- 💻 **Linguagens de Programação:** Python, Javascript, Java, "HTML e CSS" (apesar de não serem)
+- 🌱 **Aprendendo:** Atualmente estou focado em aprender POO em Python, desenvolvendo um minigame no qual tento atualizar constantemente (assim que possivel) e postar aqui no Github
+- 🚀 **Objetivo:** Me tornar um profissional cada vez mais capacitado e contribuir com projetos no qual eu possa fazer a diferença.
 
 ## Projetos Destacados
-- [Nome do Projeto 1](link) - Breve descrição do projeto.
-- [Nome do Projeto 2](link) - Breve descrição do projeto.
-- [Nome do Projeto 3](link) - Breve descrição do projeto.
+- [ASCII Souls]([link](https://github.com/mkviniciuz/Python-Projects)) - Um pequeno jogo baseado em texto, envolvendo mecanicas no estilo darksouls (PYTHON)🐍.
+- [Jogo da Velha]([link](https://github.com/mkviniciuz/appXOXO)) - Um jogo da velha ASCII (PYTHON)🐍.
+- [Cartas Contra a Humanidade]([link](https://github.com/mkviniciuz/cardsagainsthumanity)) - Pequeno projeto inacabado baseado no Cardgame "Cards Against Humanity" (HTML e CSS)📝.
 
 ## Contato
 - 📧 **E-mail:** [seuemail@exemplo.com]
