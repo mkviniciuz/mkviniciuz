@@ -70,9 +70,9 @@ Me chamo Vinicius, sou estudante de **Análise e Desenvolvimento de Sistemas** e
 - Cartas Contra a Humanidade([link](https://github.com/mkviniciuz/cardsagainsthumanity)) - Pequeno projeto inacabado baseado no Cardgame "Cards Against Humanity" (HTML e CSS)📝.
 
 ## Contato
-- 📧 **E-mail:** [seuemail@exemplo.com]
-- 🔗 **LinkedIn:** [linkedin.com/in/seu-linkedin](link)
-- 🌐 **Portfólio:** [seuportifolio.com](link) *(se aplicável)*
+- 📧 **E-mail:** mv.vinicius107@gmail.com
+- 🔗 **LinkedIn:** @mkviniciuz([link](https://www.linkedin.com/in/mkviniciuz/))
+- 🌐 **Portfólio:** Em desenvolvimento!
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
