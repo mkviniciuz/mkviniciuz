@@ -82,10 +82,14 @@ Me chamo Vinicius, sou estudante de **Análise e Desenvolvimento de Sistemas** e
 - 💼 **LinkedIn:** [linkedin.com/in/mkviniciuz](https://www.linkedin.com/in/mkviniciuz/)  
 - 🌐 **Portfólio:** Em desenvolvimento — em breve disponível aqui no GitHub.
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mkviniciuz&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mkviniciuz&layout=compact&theme=dark)
+## 📊 Estatísticas do GitHub
 
----
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkviniciuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkviniciuz&layout=compact&theme=tokyonight)
+
+</div>
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser trocar ideias ou colaborar em algum projeto!
