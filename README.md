@@ -59,20 +59,28 @@ Here are some ideas to get you started:
 ## Sobre mim
 Me chamo Vinicius, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante busca por aprimorar meus conhecimentos na área de tecnologia. Aqui no GitHub, compartilharei alguns dos meus projetos pessoais e trabalhos desenvolvidos durante minha jornada de aprendizado.
 
-## Habilidades e Interesses
-- 💻 **Linguagens de Programação:** Python, Javascript, Java, "HTML e CSS" (apesar de não serem)
-- 🌱 **Aprendendo:** Atualmente estou focado em aprender POO em Python, desenvolvendo um minigame no qual tento atualizar constantemente (assim que possivel) e postar aqui no Github
-- 🚀 **Objetivo:** Me tornar um profissional cada vez mais capacitado e contribuir com projetos no qual eu possa fazer a diferença.
+## 🚀 Habilidades e Interesses
 
-## Projetos Destacados
-- ASCII Souls ([Acessar](https://github.com/mkviniciuz/Python-Projects)) - Um pequeno jogo baseado em texto, envolvendo mecanicas no estilo darksouls (PYTHON)🐍.
-- Jogo da Velha ([Acessar](https://github.com/mkviniciuz/appXOXO)) - Um jogo da velha ASCII (PYTHON)🐍.
-- Cartas Contra a Humanidade ([Acessar](https://github.com/mkviniciuz/cardsagainsthumanity)) - Pequeno projeto inacabado baseado no Cardgame "Cards Against Humanity" (HTML e CSS)📝.
+- 💻 **Tecnologias:** Python, JavaScript, Java, HTML5 e CSS3  
+- 🧠 **Atualmente estudando:** Programação Orientada a Objetos (POO) em Python, aplicando os conceitos no desenvolvimento de um mini game que está em constante evolução e versionado aqui no GitHub.  
+- 🎯 **Objetivo Profissional:** Evoluir continuamente como desenvolvedor, aprimorando minhas habilidades técnicas e contribuindo em projetos onde eu possa gerar impacto real.
 
-## Contato
-- 📧 **E-mail:** mv.vinicius107@gmail.com
-- 🔗 **LinkedIn:** @mkviniciuz ([Acessar](https://www.linkedin.com/in/mkviniciuz/))
-- 🌐 **Portfólio:** Em desenvolvimento!
+## 🏆 Projetos Destacados
+
+- 🔥 **FireWallet** ([Acessar](https://github.com/mkviniciuz/firewallet-project))  
+  Projeto focado em simulação de carteira digital, explorando conceitos de lógica, organização de código e boas práticas de desenvolvimento.
+
+- 🥭 **Site ONG (FrutaViva)** ([Acessar](https://github.com/Rebecasenas/siteOng))  
+  Projeto acadêmico desenvolvido em equipe para um cliente real (hortifruti local), com foco na criação de presença digital e redirecionamento estratégico para contato direto com o proprietário.
+
+- ⚔️ **RogueSouls** ([Acessar](https://github.com/mkviniciuz/roguesouls))  
+  Mini game inspirado em mecânicas desafiadoras no estilo *soulslike*, desenvolvido para praticar Programação Orientada a Objetos e estruturação de sistemas em Python.
+
+## 📬 Contato
+
+- 📧 **E-mail:** mv.vinicius107@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/mkviniciuz](https://www.linkedin.com/in/mkviniciuz/)  
+- 🌐 **Portfólio:** Em desenvolvimento — em breve disponível aqui no GitHub.
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mkviniciuz&show_icons=true&theme=dark)  
