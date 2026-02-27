@@ -61,7 +61,7 @@ Me chamo Vinicius, sou estudante de **Análise e Desenvolvimento de Sistemas** e
 
 ## 🚀 Habilidades e Interesses
 
-- 💻 **Tecnologias:** Python, JavaScriptm, React, Electron, Java, HTML5 e CSS3  
+- 💻 **Tecnologias:** Python, JavaScript, React, Electron, Java, HTML5 e CSS3  
 - 🧠 **Atualmente estudando:** Programação Orientada a Objetos (POO) em Python, aplicando os conceitos no desenvolvimento de um mini game que está em constante evolução e versionado aqui no GitHub.  
 - 🎯 **Objetivo Profissional:** Evoluir continuamente como desenvolvedor, aprimorando minhas habilidades técnicas e contribuindo em projetos onde eu possa gerar impacto real.
 
